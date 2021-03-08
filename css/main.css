@@ -1,0 +1,88 @@
+/*
+header
+font-family: 'Roboto Slab', serif;
+
+paragraf
+font-family: 'Playfair Display', serif;
+
+logo
+font-family: 'Grenze Gotisch', cursive;
+*/
+/*.navbar-brand img {
+    width: 90px;
+    height: 40px;
+}*/
+html {
+    scroll-behavior: smooth;
+}
+.navbar ul li a {
+    color: wheat;
+    font-family: cursive;
+    font-weight: 300;
+    transition: all 0.2s;
+    margin: 0px 10px;
+}
+.logoname{
+    font-family: 'Grenze Gotisch', cursive;
+}
+.custom-select-navbar {
+    float: right;
+    color: yellow;
+    background-color: transparent;
+    border: none;
+}
+.nav-link{
+    color: yellow;
+}
+.navbar {
+    background: linear-gradient(to right, #f10000 10%, #000000);
+}
+.nav-item{
+    color: #ffff00;
+}
+.container .row .col-12 h2 {
+    text-align: center;
+}
+.container .row .col-md-8 {
+    border:  #EEE8AA;
+}
+#ourHistory {
+    --box-shadow-color: #eee8aa;
+    box-shadow: 5px 5px 5px var(--box-shadow-color);
+}
+.navbar ul li a:hover {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.gallary .nav  .active{
+    color: black;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.gallary .nav {
+    border-radius: 30px;
+}
+.gallary .nav :hover {
+    border: none;
+}
+.gallary .tab-content img{
+    border-radius: 20px;
+    border: 1px solid grey;
+    margin: 5px 0px;
+}
+.navbar ul li select option {
+    color: black;
+}
+.upArw {
+    width: 50px;!important;
+    height: 50px;
+    border-radius: 25px;!important;
+    text-align: center;
+    font-size: 20px;
+    position: fixed;
+    right: 15px;!important;
+    bottom: 15px;
+}

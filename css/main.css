@@ -90,3 +90,6 @@ html {
 .navBarIcon{
     color: #f79022;
 }
+.carousel .carousel-inner .carousel-item img{
+    margin-top: 70px
+}

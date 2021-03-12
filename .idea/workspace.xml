@@ -36,7 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../New folder/e-commerce-main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -61,7 +61,8 @@
       <workItem from="1615397967033" duration="30000" />
       <workItem from="1615554324499" duration="1562000" />
       <workItem from="1615556198617" duration="1171000" />
-      <workItem from="1615560723003" duration="1538000" />
+      <workItem from="1615560723003" duration="1887000" />
+      <workItem from="1615562742096" duration="152000" />
     </task>
     <servers />
   </component>

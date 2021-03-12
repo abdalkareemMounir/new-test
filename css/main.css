@@ -85,4 +85,8 @@ html {
     position: fixed;
     right: 15px;!important;
     bottom: 15px;
+    z-index: 50;
+}
+.navBarIcon{
+    color: #f79022;
 }
